@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ant_direction_down.png</file>
+        <file>ant_direction_left.png</file>
+        <file>ant_direction_right.png</file>
+        <file>ant_direction_up.png</file>
+    </qresource>
+</RCC>
